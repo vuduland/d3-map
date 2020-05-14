@@ -1,0 +1,27 @@
+{
+  "name": "d3-map-pluralsight",
+  "version": "1.0.0",
+  "description": "d3-map-pluralsight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuduland/d3-map.git"
+  },
+  "keywords": [
+    "mapping",
+    "d3"
+  ],
+  "author": "Victor Uland (Ben Sullins Tutorial)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuduland/d3-map/issues"
+  },
+  "homepage": "https://github.com/vuduland/d3-map#readme",
+  "dependencies": {
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.1.0"
+  }
+}
